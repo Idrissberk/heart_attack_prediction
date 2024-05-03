@@ -1,0 +1,3 @@
+http://127.0.0.1:5000/heart_attack_risk?age=30&cholesterol=300&smoking=0&alcohol=0&diabetes=0&obesity=0&previous=0&heart_rate=80&blood_pressure=120/80&sex=Male
+
+http://127.0.0.1:5000/heart_attack_risk?age=60&cholesterol=200&smoking=1&alcohol=1&diabetes=1&obesity=1&previous=5&heart_rate=50&blood_pressure=140/60&sex=Female
